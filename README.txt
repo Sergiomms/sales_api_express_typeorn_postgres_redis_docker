@@ -1,0 +1,1 @@
+-r tsconfig-paths/register - talvez eu precise disso no package.json
