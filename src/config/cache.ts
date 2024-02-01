@@ -1,3 +1,5 @@
+// used: yarn add -D @types/ioredis@4.28.10 for ioredis types
+
 import { RedisOptions } from 'ioredis';
 
 interface ICacheConfig {
